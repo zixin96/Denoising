@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Denoising - Real Time Ray Tracing</h1>
+  <h1 align="center">Denoising</h1>
   <h2 align="center">Charles Zhang</h2>
   <h3 align="center">zzxdev@outlook.com</h3>
 </div>
